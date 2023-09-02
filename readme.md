@@ -12,7 +12,7 @@ PROJECT DOMAIN : Cloud Application
  - Sai Santhosh Reddy
  - Rahul Mondal
 ```
-## 📒PROJECT DESCRIPTION:
+## 📕PROJECT DESCRIPTION:
 ```text
 Due to the ignorance of healthy food habits, obesity rates are increasing at an alarming speed, and this is reflective of the risks to people’s health. 
 People need to control their daily calorie intake by eating healthier foods, which is the most basic method to avoid obesity. 
@@ -21,7 +21,7 @@ However, although food packaging comes with nutrition (and calorie) labels, it�
 This project aims at building a web App that automatically estimates food attributes such as ingredients and nutritional value by classifying the input image of food.  Our method employs Clarifai's AI-Driven Food Detection Model for accurate food identification and Food API's to give the nutritional value of the identified food.
 ```
 
-## 📒WORKFLOW:
+## 📗WORKFLOW:
 ```text
 User interacts with the Mobile App to Load an image.
 
@@ -39,7 +39,7 @@ This is the base repository which contains the submodules for the project _Inven
 | 1 | Unico_Backend |  |
 | 2 | Unico_Frontend |  |
 
-## PROJECT SETUP
+## 🏗️PROJECT SETUP
 Open a terminal and run the following command at your desired location:
 
 ```bash
@@ -55,16 +55,14 @@ This will clone the repository along with all the submodules.
 git submodule update --init --recursive
 ```
 
-## SPRINT BREAKDOWN
+## 🚨SPRINT BREAKDOWN
 ### Sprint 1
 ```text
     - Upcoming
-   
 ```
 ### Sprint 2
 ```text
     - Upcoming
-    
 ```
     
 ### Sprint 3
