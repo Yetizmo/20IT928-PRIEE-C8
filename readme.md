@@ -43,7 +43,7 @@ This is the base repository which contains the submodules for the project _Inven
 Open a terminal and run the following command at your desired location:
 
 ```bash
-git clone --recursive https://github.com/CloudMavericks/20IT928-PRIEE-C7.git
+git clone --recursive https://github.com/Yetizmo/20IT928-PRIEE-C8.git
 ```
 
 This will clone the repository along with all the submodules.
