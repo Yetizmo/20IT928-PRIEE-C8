@@ -48,9 +48,7 @@ git clone --recursive https://github.com/Yetizmo/20IT928-PRIEE-C8.git
 
 This will clone the repository along with all the submodules.
 
-> Note: If you have already cloned the repository without the `--recursive` flag, then run the `update_submodules.sh` (for Linux/macOS) or `update_submodules.cmd` (Windows - Command Prompt) or `update_submodules.ps1` (for Windows - Powershell) script from the root of the repository to clone all the submodules. 
-
-> Alternatively you can run the following command from the root of the repository to clone all the submodules.
+> Note: If you have already cloned the repository without the `--recursive` flag, then run the following command from the root of the repository to clone all the submodules.
 ```bash
 git submodule update --init --recursive
 ```
