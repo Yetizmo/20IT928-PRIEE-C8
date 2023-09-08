@@ -32,7 +32,7 @@ Nutritional information of the analyzed image is returned to the app for display
 
 
 ## 👨‍💻PROJECT STRUCTURE:
-This is the base repository which contains the submodules for the project _Inventory Management System for retailers_. The submodules are as follows:
+This is the base repository which contains the submodules for the project _Nutrition Assistant Application_. The submodules are as follows:
 
 | S.No | Submodule Name | Repository Link |
 | --- | --- | --- |
