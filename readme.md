@@ -36,8 +36,8 @@ This is the base repository which contains the submodules for the project _Nutri
 
 | S.No | Submodule Name | Repository Link |
 | --- | --- | --- |
-| 1 | Unico_Backend |  |
-| 2 | Unico_Frontend |  |
+| 1 | Unico_Backend | https://github.com/Yetizmo/Unico_Backend |
+| 2 | Unico_Frontend | https://github.com/Yetizmo/Unico_Frontend |
 
 ## 🏗️PROJECT SETUP
 Open a terminal and run the following command at your desired location:
